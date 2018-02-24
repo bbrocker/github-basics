@@ -1,4 +1,4 @@
 # github-basics
-Remote repo to test out github skillz
+Remote repo to test out github skills
 
 [I'm learning this on lynda.com.](http://www.lynda.com)
